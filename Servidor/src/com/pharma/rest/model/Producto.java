@@ -1,3 +1,7 @@
+package com.pharma.rest.model;
+
+import Util.Tipo;
+
 
 public class Producto {
 	private String nombre;

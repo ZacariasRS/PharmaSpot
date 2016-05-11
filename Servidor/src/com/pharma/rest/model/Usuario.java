@@ -1,4 +1,8 @@
+package com.pharma.rest.model;
 
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement
 public class Usuario {
 	private String nombre;
 	private Boolean sessionStatus;

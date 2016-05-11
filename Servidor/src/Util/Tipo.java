@@ -1,3 +1,5 @@
+package Util;
+
 
 public enum Tipo {
 	DEFAULT, DENTAL, CUTANEO, INFANTIL, ORTOPEDIA, PARAFARMACIA

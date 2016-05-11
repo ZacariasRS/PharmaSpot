@@ -1,4 +1,8 @@
+package engine;
+
 import java.util.ArrayList;
+import com.pharma.rest.model.Producto;
+import Util.Tipo;
 
 
 public class Busqueda {

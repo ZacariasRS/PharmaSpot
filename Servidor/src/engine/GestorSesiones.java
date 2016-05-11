@@ -1,4 +1,7 @@
+package engine;
+
 import java.util.ArrayList;
+import com.pharma.rest.model.Usuario;
 
 
 public class GestorSesiones {

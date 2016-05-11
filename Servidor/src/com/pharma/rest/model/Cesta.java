@@ -1,3 +1,5 @@
+package com.pharma.rest.model;
+
 import java.util.ArrayList;
 
 
